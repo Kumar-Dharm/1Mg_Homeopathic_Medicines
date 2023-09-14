@@ -1,4 +1,4 @@
-# 1Mg_Homeopathic_Medicines
+# 1Mg_Homeopathic_Medicines  
 ![1Mg_logo](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/36bcd26b-ee28-49a2-af8c-82a7d8bb9537)
 
 In the "1Mg Homeopathic Medicine" project, the goal is to leverage web scraping, data preprocessing, analysis, 
@@ -89,12 +89,14 @@ print(len(box_link))
 - Ensured uniform data types across the dataset. This consistency aids in smooth processing and analysis. 
 
 `MID(I2, FIND("Key Benefits:", I2)+13, FIND("Dosage:", I2) - FIND("Key Benefits:", I2))`  
+
 `SUBSTITUTE(MID(I6, FIND("Key Ingredients", I6) + 16, FIND(".", I6, FIND("Key Ingredients", I6)) - FIND("Key Ingredients", I6)), "Indications:", "")` 
 
 **Table Size and Shape Evaluation:**  
 - Assessed the size and shape of each table to comprehend its structure. This step is crucial for understanding the data's composition.
 
-* By executing these preprocessing steps, the dataset was refined, cleaned, and made ready for further analysis, establishing a solid foundation for accurate insights.  
+* By executing these preprocessing steps, the dataset was refined, cleaned, and made ready for further analysis, establishing a solid foundation for accurate insights.
+
 **Cleaned Data**
 ![1Mg_Cleaned_data_snip](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/bc82b36b-e634-45e9-ac8b-fa3c8a422d54)  
 
