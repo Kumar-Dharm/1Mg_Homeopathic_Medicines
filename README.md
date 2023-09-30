@@ -25,8 +25,8 @@ and creating an interactive dashboard to provide insights for the client's busin
 - [Business Solution](#business_solution)
 - [Dashboard](#dashboard)
 - [Challenges](#challenges)
-- [Conclusion](#conclusion)
 - [Learning](#learning)
+- [Conclusion](#conclusion)
 
 ## Introduction
 - Introducing the '1Mg Homeopathic Medicine Store Analysis' project, which harnesses data from Tata 1mg, India's leading digital healthcare platform.  
@@ -165,6 +165,14 @@ We get banned from scrapping products data more than 50 at a time.
 Key benefits and key ingredients of the medicines were in paragraph. 
 No of products purchased by customers was not available.
 
+## Learning
+- **Web Scraping Proficiency:** Acquired skills in web scraping to efficiently gather data from online sources.
+- **Data Cleaning Expertise:** Developed the ability to clean and preprocess raw data, ensuring its quality and consistency.
+- **Insight Generation Skills:** Gained experience in using analytical tools and methods to extract meaningful insights from data.
+- **Problem-Solving Skills:** Applied data-driven insights to formulate practical business solutions.
+- **Dashboard Development:** Developed proficiency in creating interactive dashboards for data visualization and user engagement.
+- **Client Communication:** Enhanced the ability to effectively communicate and address client queries and needs using data-driven solutions.
+
 ## Conclusion  
 * **Smart Choices:** We assumed customers who bought items also rated them. Our top-rated brands, 23 in all, score above 4.
 * **Key Benefits:** From our study, we found 35 important benefits that our products provide, covering a wide range of needs.
@@ -174,13 +182,5 @@ No of products purchased by customers was not available.
 * **Strategic Move:** The 80-20 principle shows that 80% of our earnings come from just 20% of our products/brands.
 
 This knowledge guides us in creating a strong Homeopathic medicine store that's attentive to customer desires and positioned for success.
-
-## Learning
-- **Web Scraping Proficiency:** Acquired skills in web scraping to efficiently gather data from online sources.
-- **Data Cleaning Expertise:** Developed the ability to clean and preprocess raw data, ensuring its quality and consistency.
-- **Insight Generation Skills:** Gained experience in using analytical tools and methods to extract meaningful insights from data.
-- **Problem-Solving Skills:** Applied data-driven insights to formulate practical business solutions.
-- **Dashboard Development:** Developed proficiency in creating interactive dashboards for data visualization and user engagement.
-- **Client Communication:** Enhanced the ability to effectively communicate and address client queries and needs using data-driven solutions.
 
 |---------------------------------------------------------------------------------------------------------------------------|
