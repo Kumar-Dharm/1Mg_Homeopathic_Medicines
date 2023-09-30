@@ -151,19 +151,16 @@ print(len(box_link))
 ![1Mg_PowerBI_Dashboard](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/8ad90b01-f67f-442e-8b9f-20f27436b957)
 
 ## Challenges
-**Non-technical**
-- Team collaboration:
-As it was first project and we are not physically available at a place so collaborating with all the members was bit challenging.
-- Time constraints:
-As it was construct week project and we need to complete within the given time frame.  
-
-**Technical**
 - Web Scrapping:
 Need to explore one of the new python library. 
 We get banned from scrapping products data more than 50 at a time.
 - Data Cleaning:
 Key benefits and key ingredients of the medicines were in paragraph. 
 No of products purchased by customers was not available.
+- Team collaboration:
+As it was first project and we are not physically available at a place so collaborating with all the members was bit challenging.
+- Time constraints:
+As it was construct week project and we need to complete within the given time frame.  
 
 ## Learning
 - **Web Scraping Proficiency:** Acquired skills in web scraping to efficiently gather data from online sources.
